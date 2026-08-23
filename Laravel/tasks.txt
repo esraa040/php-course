@@ -1,0 +1,4 @@
+=========== Day 1 ====================
+install project laaravel
+=== all students ==> blade 
+== student  ==> blade  ========> route :: get ('/students/1)
